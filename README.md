@@ -1,6 +1,6 @@
-# Does a market model break when it matters most?
+# Do market Models Fail When Confronted with Crisis?
 
-A simple test of Nassim Taleb's argument that forecasting models work in normal times and fail exactly when it matters. I forecast next month's volatility for the S&P 500 and the Magnificent 7, trained a model on 2005–2019 and checked how it held up in calm markets vs. the March 2020 crash and the 2022 selloff.
+A simple test of Nassim Taleb's argument that forecasting models work in normal times and fail exactly when it matters. I forecast next month's volatility for the S&P 500 and the Magnificent 7, trained a model on 2005–2019 and checked how it held up in calm markets vs. the March 2020 crash and the 2022 selloff. Built with Claude as a coding assistant; the research design, analysis and conclusions are mine.
 
 ![S&P 500 volatility forecasts vs. actual, 2018–2025](volatility_chart.png)
 
